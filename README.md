@@ -1,12 +1,24 @@
 # Network-Simulator-ns2-
 
-The general process of creating a simulation can be divided into several steps:
+Details about ns2 can be found [here](https://en.wikipedia.org/wiki/Ns_(simulator)). Here we have used ns-2.35 . 
 
-1) Topology definition: To ease the creation of basic facilities and define their interrelationships, ns-3 has a system of containers and helpers that facilitates this process.
-2) Model development: Models are added to simulation (for example, UDP, IPv4, point-to-point devices and links, applications); most of the time this is done using helpers.
-3) Node and link configuration: models set their default values (for example, the size of packets sent by an application or MTU of a point-to-point link); most of the time this is done using the attribute system.
-4) Execution: Simulation facilities generate events, data requested by the user is logged.
-5) Performance analysis: After the simulation is finished and data is available as a time-stamped event trace. This data can then be statistically analysed with tools like R to draw conclusions.
-6) Graphical Visualization: Raw or processed data collected in a simulation can be graphed using tools like Gnuplot, matplotlib or XGRAPH
+We have modified the existing ns2 model for wired and wireless network by modifying RTT (Round Trip Time ) calculation, the Congestion Control Algorithm and the RTO values. After
+that we compared the new values with the previous one . For our wired network, we don’t have any drop packets .That’s why, changing RTT calculations doesn’t put any difference with the previous value. But after changing the congestion control and RTO default values , we found a massive positive change with previous value.
 
-Here in the #Code folder 
+On the other hand, RTT calculations ,congestion control and RTO default values all make
+difference for the wireless network . Though for some nodes , some values decline . But for
+most of the cases, values changes positively. Although throughput declined by a slight margin, we witnessed positive change regarding delay, drop ratio and delivery ratio(after modifying RTT calculations). When we modified congestion control along with RTT calculations and RTO values, we saw slight increase in throughput. Also delay increased. Delivery ratio decreased. Drop ratio increased in most cases.
+
+Details about our modification can be found from "Report.pdf".
+
+## Reference
+
+1) Elbery, Ahmed. (2005). A Modification to Swifter Start Algorithm for TCP Congestion Control. 
+
+2) Roy, A. (2006). MODIFICATION OF CONGESTION CONTROL ALGORITHM FOR TCP AND ITS EXTENSION TO EXPLICIT RATE ADJUSTMENT ALGORITHM.
+
+3) Ahmad, Z., & Abd Jalil, K. (2012, December). Performance evaluation on modified AODV protocols. In 2012 IEEE Asia-Pacific Conference on Applied Electromagnetics (APACE) (pp. 158-163). IEEE.
+
+4) Saha, S., Roy, U., & Sinha, D. Modified AODV with double ended queue (dqAODV) with reduced overhead.
+
+5) Issariyakul, T., & Hossain, E. (2009). Introduction to network simulator 2 (NS2). In Introduction to network simulator NS2 (pp. 1-18). Springer, Boston, MA.

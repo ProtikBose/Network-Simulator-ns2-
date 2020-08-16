@@ -1,0 +1,56 @@
+throughput: 1109.33 
+delay: 0.24414 
+send packet: 332.00 
+received packet: 118.00 
+drop packet: 323.00 
+delivery ratio: 35.54 
+drop ratio: 97.29 
+time: 15.00000 
+total_energy: 890.13600 
+energy_per_bit: 0.05349 
+energy_per_byte: 0.42795 
+energy_per_packet: 7.54353 
+total_retrnsmit: 478 
+per node throughput: 16:          187.73
+per node throughput: 36:           21.33
+per node throughput: 40:           21.33
+per node throughput: 42:            8.53
+per node throughput: 43:            8.53
+per node throughput: 46:            8.53
+per node throughput: 47:            8.53
+per node throughput: 48:            8.53
+per node throughput: 49:            8.53
+per node throughput: 50:            8.53
+per node throughput: 51:            8.53
+per node throughput: 52:            8.53
+per node throughput: 53:            8.53
+per node throughput: 54:            8.53
+per node throughput: 55:            8.53
+per node throughput: 56:            8.53
+per node throughput: 57:            8.53
+per node throughput: 79:            8.53
+per node throughput: 81:            8.53
+per node throughput: 83:            8.53
+per node throughput: 84:            8.53
+per node throughput: 85:            8.53
+per node throughput: 86:            8.53
+per node throughput: 105:            8.53
+per node throughput: 107:            8.53
+per node throughput: 110:            8.53
+per node throughput: 111:            8.53
+per node throughput: 113:            8.53
+per node throughput: 117:            8.53
+per node throughput: 120:            8.53
+per node throughput: 121:            8.53
+per node throughput: 125:            8.53
+per node throughput: 126:            8.53
+per node throughput: 130:            8.53
+per node throughput: 131:            8.53
+per node throughput: 132:            8.53
+per node throughput: 133:            8.53
+per node throughput: 154:            8.53
+per node throughput: 155:            8.53
+per node throughput: 156:            8.53
+per node throughput: 157:            8.53
+per node throughput: 158:            8.53
+per node throughput: 159:            8.53

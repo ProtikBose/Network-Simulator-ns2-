@@ -1,0 +1,54 @@
+throughput: 2615.47 
+delay: 0.18549 
+send packet: 578.00 
+received packet: 293.00 
+drop packet: 430.00 
+delivery ratio: 50.69 
+drop ratio: 74.39 
+time: 15.00000 
+total_energy: 886.53500 
+energy_per_bit: 0.02260 
+energy_per_byte: 0.18078 
+energy_per_packet: 3.02572 
+total_retrnsmit: 836 
+per node throughput: 6:           21.33
+per node throughput: 16:          110.93
+per node throughput: 38:            8.53
+per node throughput: 39:            8.53
+per node throughput: 40:           21.33
+per node throughput: 43:            8.53
+per node throughput: 65:            8.53
+per node throughput: 106:            8.53
+per node throughput: 118:            8.53
+per node throughput: 121:            8.53
+per node throughput: 122:            8.53
+per node throughput: 123:            8.53
+per node throughput: 124:            8.53
+per node throughput: 125:            8.53
+per node throughput: 126:            8.53
+per node throughput: 127:            8.53
+per node throughput: 128:            8.53
+per node throughput: 129:            8.53
+per node throughput: 130:            8.53
+per node throughput: 131:            8.53
+per node throughput: 132:            8.53
+per node throughput: 133:            8.53
+per node throughput: 134:            8.53
+per node throughput: 135:            8.53
+per node throughput: 136:            8.53
+per node throughput: 137:            8.53
+per node throughput: 138:            8.53
+per node throughput: 139:            8.53
+per node throughput: 140:            8.53
+per node throughput: 143:            8.53
+per node throughput: 146:            8.53
+per node throughput: 169:            8.53
+per node throughput: 171:            8.53
+per node throughput: 176:            8.53
+per node throughput: 186:            8.53
+per node throughput: 187:            8.53
+per node throughput: 188:            8.53
+per node throughput: 189:            8.53
+per node throughput: 190:            8.53
+per node throughput: 192:            8.53
+per node throughput: 196:            8.53

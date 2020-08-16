@@ -1,0 +1,67 @@
+throughput: 617.14 
+delay: 0.37374 
+send packet: 169.00 
+received packet: 63.00 
+drop packet: 166.00 
+delivery ratio: 37.28 
+drop ratio: 98.22 
+time: 14.00000 
+total_energy: 1331.22300 
+energy_per_bit: 0.15408 
+energy_per_byte: 1.23261 
+energy_per_packet: 21.13052 
+total_retrnsmit: 290 
+per node throughput: 6:           22.86
+per node throughput: 9:            9.14
+per node throughput: 10:            9.14
+per node throughput: 13:            9.14
+per node throughput: 14:            9.14
+per node throughput: 16:           45.71
+per node throughput: 34:            9.14
+per node throughput: 35:            9.14
+per node throughput: 36:            9.14
+per node throughput: 37:            9.14
+per node throughput: 40:           22.86
+per node throughput: 43:            9.14
+per node throughput: 44:            9.14
+per node throughput: 46:            9.14
+per node throughput: 47:            9.14
+per node throughput: 48:            9.14
+per node throughput: 70:            9.14
+per node throughput: 72:            9.14
+per node throughput: 73:            9.14
+per node throughput: 74:            9.14
+per node throughput: 75:            9.14
+per node throughput: 81:            9.14
+per node throughput: 82:            9.14
+per node throughput: 83:            9.14
+per node throughput: 84:            9.14
+per node throughput: 139:            9.14
+per node throughput: 146:            9.14
+per node throughput: 147:            9.14
+per node throughput: 148:            9.14
+per node throughput: 149:            9.14
+per node throughput: 150:            9.14
+per node throughput: 151:            9.14
+per node throughput: 152:            9.14
+per node throughput: 153:            9.14
+per node throughput: 154:            9.14
+per node throughput: 155:            9.14
+per node throughput: 156:            9.14
+per node throughput: 157:            9.14
+per node throughput: 158:            9.14
+per node throughput: 159:            9.14
+per node throughput: 160:            9.14
+per node throughput: 161:            9.14
+per node throughput: 162:            9.14
+per node throughput: 163:            9.14
+per node throughput: 164:            9.14
+per node throughput: 165:            9.14
+per node throughput: 190:            9.14
+per node throughput: 191:            9.14
+per node throughput: 192:            9.14
+per node throughput: 194:            9.14
+per node throughput: 196:            9.14
+per node throughput: 197:            9.14
+per node throughput: 198:            9.14
+per node throughput: 199:            9.14

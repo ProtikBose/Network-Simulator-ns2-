@@ -1,0 +1,8 @@
+ packets: 3223.20000 
+Receievd packets: 2783.70000 
+Dropped packets: 520.30000 
+Total time:  46.19718 
+Average Energy per bit: .12451 
+Average Energy per byte: 1.00025 
+Average energy per packet: 17.91250 
+total_retransmit: 3091.35000

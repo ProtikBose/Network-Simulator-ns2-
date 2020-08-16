@@ -1,0 +1,100 @@
+throughput: 6156.80 
+delay: 0.07993 
+send packet: 920.00 
+received packet: 717.00 
+drop packet: 291.00 
+delivery ratio: 77.93 
+drop ratio: 31.63 
+time: 15.00000 
+total_energy: 1786.42300 
+energy_per_bit: 0.01934 
+energy_per_byte: 0.15475 
+energy_per_packet: 2.49152 
+total_retrnsmit: 1010 
+per node throughput: 41:           21.33
+per node throughput: 44:            8.53
+per node throughput: 45:            8.53
+per node throughput: 48:            8.53
+per node throughput: 49:            8.53
+per node throughput: 50:            8.53
+per node throughput: 51:            8.53
+per node throughput: 52:            8.53
+per node throughput: 53:            8.53
+per node throughput: 54:            8.53
+per node throughput: 55:            8.53
+per node throughput: 56:            8.53
+per node throughput: 57:            8.53
+per node throughput: 58:            8.53
+per node throughput: 59:            8.53
+per node throughput: 60:            8.53
+per node throughput: 61:            8.53
+per node throughput: 62:            8.53
+per node throughput: 63:            8.53
+per node throughput: 64:            8.53
+per node throughput: 65:            8.53
+per node throughput: 66:            8.53
+per node throughput: 69:            8.53
+per node throughput: 70:            8.53
+per node throughput: 75:            8.53
+per node throughput: 76:            8.53
+per node throughput: 77:            8.53
+per node throughput: 79:            8.53
+per node throughput: 80:            8.53
+per node throughput: 81:            8.53
+per node throughput: 85:            8.53
+per node throughput: 86:            8.53
+per node throughput: 91:            8.53
+per node throughput: 92:            8.53
+per node throughput: 97:            8.53
+per node throughput: 100:            8.53
+per node throughput: 101:            8.53
+per node throughput: 104:            8.53
+per node throughput: 105:            8.53
+per node throughput: 107:            8.53
+per node throughput: 108:            8.53
+per node throughput: 110:            8.53
+per node throughput: 111:            8.53
+per node throughput: 114:            8.53
+per node throughput: 115:            8.53
+per node throughput: 117:            8.53
+per node throughput: 120:            8.53
+per node throughput: 122:            8.53
+per node throughput: 124:            8.53
+per node throughput: 127:            8.53
+per node throughput: 129:            8.53
+per node throughput: 130:            8.53
+per node throughput: 131:            8.53
+per node throughput: 133:            8.53
+per node throughput: 134:            8.53
+per node throughput: 136:            8.53
+per node throughput: 139:            8.53
+per node throughput: 141:            8.53
+per node throughput: 147:            8.53
+per node throughput: 150:            8.53
+per node throughput: 151:            8.53
+per node throughput: 152:            8.53
+per node throughput: 153:            8.53
+per node throughput: 156:            8.53
+per node throughput: 157:            8.53
+per node throughput: 158:            8.53
+per node throughput: 159:            8.53
+per node throughput: 160:            8.53
+per node throughput: 161:            8.53
+per node throughput: 164:            8.53
+per node throughput: 167:            8.53
+per node throughput: 173:            8.53
+per node throughput: 174:            8.53
+per node throughput: 176:            8.53
+per node throughput: 178:            8.53
+per node throughput: 179:            8.53
+per node throughput: 181:            8.53
+per node throughput: 182:            8.53
+per node throughput: 184:            8.53
+per node throughput: 185:            8.53
+per node throughput: 186:            8.53
+per node throughput: 188:            8.53
+per node throughput: 189:            8.53
+per node throughput: 191:            8.53
+per node throughput: 195:            8.53
+per node throughput: 197:            8.53
+per node throughput: 199:            8.53

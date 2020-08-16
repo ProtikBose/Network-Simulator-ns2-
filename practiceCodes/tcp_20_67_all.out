@@ -1,0 +1,16 @@
+throughput: 29730.13 
+delay: 0.04295 
+send packet: 3792.00 
+received packet: 3466.00 
+drop packet: 335.00 
+delivery ratio: 91.40 
+drop ratio: 8.83 
+time: 15.00000 
+total_energy: 451.62300 
+energy_per_bit: 0.00101 
+energy_per_byte: 0.00810 
+energy_per_packet: 0.13030 
+total_retrnsmit: 3474 
+per node throughput: 9:          925.87
+per node throughput: 16:            8.53
+per node throughput: 40:           42.67
